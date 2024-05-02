@@ -1,8 +1,8 @@
 # SafetyMuJoCo
 
  <div align=center>
- <img src="https://github.com/chauncygu/Safe-Multi-Agent-Mujoco/blob/main/figures/all-mujoco.png" width="850"/> 
+ <img src="https://github.com/SafeRL-Lab/Safety-MuJoCo/blob/main/safety_mujoco/figures/safety-mujoco.png" width="850"/> 
  </div>
 <div align=center>
-<center style="color:#000000;text-decoration:underline">Figure.1 Example views of robots in Safe MAMuJoCo. Body parts of different colours are controlled by differentagents. Agents jointly learn to manipulate the robot, while avoiding crashing into unsafe areas. </center>
+<center style="color:#000000;text-decoration:underline">Figure.1 Safety-MuJoCo Environments: SafetyWalker-4~(a), SafetyHumanoidStandup-v4~(b), SafetyReacher-v4~(c), SafetyHopper-v4~(d), SafetyAnt-v4~(e), SafeHalfCheetah-v4~(f), SafetyPusher-v4~(g) and SafetyHumanoid-v4~(h). </center>
  </div>
