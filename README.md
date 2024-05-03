@@ -1,4 +1,4 @@
-# SafetyMuJoCo
+# Safety MuJoCo
 
  <div align=center>
  <img src="https://github.com/SafeRL-Lab/Safety-MuJoCo/blob/main/safety_mujoco/figures/safety-mujoco.png" width="850"/> 
