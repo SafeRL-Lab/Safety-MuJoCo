@@ -13,7 +13,7 @@
 
 
 ## Publication
-If you find the repository useful, please cite the [paper](https://ojs.aaai.org/index.php/AAAI/article/view/30102/31944):
+If you find the repository useful, please cite the [paper](https://arxiv.org/pdf/2405.01677):
 ```
 @inproceedings{gu2024balance,
   title={Balance Reward and Safety Optimization for Safe Reinforcement Learning: A Perspective of Gradient Manipulation},
