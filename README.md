@@ -1,5 +1,9 @@
 # Safety MuJoCo
 
+<p align="center" style="text-algin:center">
+  <img src="https://github.com/SafeRL-Lab/Safety-MuJoCo/blob/main/safety_mujoco/figures/demo-1225005864%2000_00_00-00_00_30.gif">
+</p>
+
  <div align=center>
  <img src="https://github.com/SafeRL-Lab/Safety-MuJoCo/blob/main/safety_mujoco/figures/safety-mujoco.png" width="850"/> 
  </div>
