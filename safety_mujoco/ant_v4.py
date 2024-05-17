@@ -273,20 +273,7 @@ class AntEnv(MujocoEnv, utils.EzPickle):
         )
         return contact_cost
 
-    # @property
-    # def is_healthy(self):
-    #     state = self.state_vector()
-    #     min_z, max_z = self._healthy_z_range
-    #     is_healthy = np.isfinite(state).all() and min_z <= state[2] <= max_z
-    #     # print("state[2]--------:", state[2])
-    #     # print("min_z------------:", min_z)
-    #     # print("max_z-----------:", max_z)
-    #     # if min_z <= state[2] <= max_z:
-    #     #     return state[2]
-    #     # elif state[2] < min_z:
-    #     #     return 0
-    #     # return is_healthy
-    #     return state[2]
+   
 
     @property
     def is_healthy(self):
@@ -314,9 +301,7 @@ class AntEnv(MujocoEnv, utils.EzPickle):
         rewards = forward_reward + healthy_reward
 
         costs = ctrl_cost = self.control_cost(action)
-        # print("costs--------------:", costs)
-
-        # terminated = self.terminated
+        
         terminated = False  # todo
 
         observation = self._get_obs()
