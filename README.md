@@ -1,6 +1,6 @@
 # Safety MuJoCo
 
-We are currently designing safety tasks for safe RL based on MuJoCo environments.
+We are currently designing safety tasks for safe RL based on MuJoCo environments and implementing more algorithms in the benchmark.
 
 <p align="center" style="text-algin:center">
   <img src="https://github.com/SafeRL-Lab/Safety-MuJoCo/blob/main/safety_mujoco/figures/demo-1225005864%2000_00_00-00_00_30.gif">
